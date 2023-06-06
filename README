@@ -1,0 +1,6 @@
+This is a basic Apollo server with CRUD functionality. To use,
+
+1. run npm install
+2. create a .env file in the root folder and assign mongodb=<yourMongoDBLink>
+3. npm start
+4. visit localhost:4000
